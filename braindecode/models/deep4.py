@@ -250,3 +250,4 @@ class Deep4Net(nn.Sequential):
 
         # Start in eval mode
         self.eval()
+
